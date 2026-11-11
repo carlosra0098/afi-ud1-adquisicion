@@ -6,7 +6,7 @@ Estado inicial del ordenador:
 Hora del sistema --> 11:44
 Hora real --> 11:44
 Desfase --> Nada.
-![[[Pasted image 20261111120853.png](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111120853.png)]]
+![[Pasted image 20261111120853.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111120853.png)
 
 ## Memoria RAM del equipo usando DumpIt. Hora de realización --> 12:13
 Tras usar DumpIt, el programa nos da el hash en el archivo FORENSE-06-20261111-120148.raw.
