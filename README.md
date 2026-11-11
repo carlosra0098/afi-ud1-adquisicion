@@ -8,7 +8,7 @@ Adquirir un equipo comprometido
 
 [acta de adquisición](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/acta-adquisicion.pdf)
 
-[registro de custodia]()
+[registro de custodia](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/registro-custodia.pdf)
 
 [hashes](https://github.com/carlosra0098/afi-ud1-adquisicion/tree/main/hashes)
 
