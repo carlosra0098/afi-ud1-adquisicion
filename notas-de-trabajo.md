@@ -14,6 +14,7 @@ Tras usar DumpIt, el programa nos da el hash en el archivo FORENSE-06-20261111-1
 
 ## Datos volátiles usando el script respuesta-en-vivo.ps1. Hora de realización --> 13:10.
 Tras utilizar el script crea una carpeta llamada "salida" donde se encuentran todos los datos volátiles dentro de la carpeta ADI-UD1-AlmadrabaDiseno.
+
 ![[Pasted image 20261111132827.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111132827.png)
 ![[Pasted image 20261111132913.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111132913.png)
 
