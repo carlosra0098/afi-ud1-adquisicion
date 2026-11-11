@@ -128,26 +128,33 @@ Path: C:\Users\clrg0\VirtualBox VMs\FORENSIC_10\Logs\VBoxHardening.log
 Para realizar la imagen del disco he utilizado FTKImager para así poder crearla y verificarla. 
 
 En la siguiente captura se puede ver la creación completa:
+
 ![[Pasted image 20261111170215.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111170215.png)
 
 En la siguiente captura se puede ver la verificación de la creación:
+
 ![[Pasted image 20261111173252.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111173252.png)
 
 ## Mismo hash del .vdi. Hora de realización --> 17:30
 
 Tras calcular el hash del disco copiado, podemos ver en la siguiente captura que da exactamente el mismo hash al original el cual se mencionó antes en el apartado _Hash del disco .vdi_.
+
 ![[Pasted image 20261111173725.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111173725.png)
+
 ## Copia de configuración y registros. Hora de realización --> 17:35
 
 Tras haberlos copiado junto a la imagen y comprobar los hashes, en la siguiente captura se ve que tienen el mismo hash que anteriormente se mencionó en el apartado _Hash del disco .vbox_ y _Hashes de los Logs_.
 
 Hash de .vbox:
+
 ![[Pasted image 20261111174543.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111174543.png)
 
 Hash de los Logs:
+
 ![[Pasted image 20261111174634.png]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/Pasted%20image%2020261111174634.png)
 
 ## Pendrive encontrado. Hora de realización --> 18:00
+
 ![[WhatsApp Image 2026-11-11 at 18.24.14.jpeg|287]](https://github.com/carlosra0098/afi-ud1-adquisicion/blob/main/capturas/WhatsApp%20Image%202026-11-11%20at%2018.24.14.jpeg)
 
 El pendrive encontrado es un 4GB TDK TRANS IT USB Flash Drive 4GB TDK USB Stick de 4Gb de capacidad de almacenamiento. Su número de referencia es Ref-4198.
